@@ -35,6 +35,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - [Linters](https://github.com/microverseinc/linters-config)
+- Special thank to Yassine Omari for the review and suggestions
 
 
 ## 📝 License
